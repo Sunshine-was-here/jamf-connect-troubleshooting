@@ -1,4 +1,4 @@
-# Jamf Connect Troubleshooting Script (JCP)
+# Jamf Connect Pulse
 
 [![Version](https://img.shields.io/badge/version-1.7.1-blue.svg)](https://github.com/yourusername/yourrepo)
 [![Bash](https://img.shields.io/badge/bash-4.0%2B-green.svg)](https://www.gnu.org/software/bash/)
